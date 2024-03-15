@@ -6,10 +6,10 @@ Location: Saint Louis, Missouri, United States
 
 ## Education
 ### Master's in Bioinformatics and Computational Biology
-**Saint Louis University** * Saint Louis, Missouri * 2024
+**Saint Louis University** *Saint Louis, Missouri* 2024
 
 ### B. Tech, Bioinformatics
-** Sathyabama Institute of Science and Technology** * Chennai, Tamil Nadu * 2021
+**Sathyabama Institute of Science and Technology** *Chennai, Tamil Nadu* 2021
 
 ## Technical Skills
 * Languages: R programming, Python, C, C++, SQL
@@ -41,6 +41,4 @@ Computational Systems Biology of Pityriasis lichenoides chronica (PLC) and its C
 * Exploited the Genome Asia 100k project to analyze SNP allele frequency across diverse populations, shedding unprecedented light on the genetic underpinnings of Alzheimer's disease, and contributing to global understanding of genetic diversity in disease predisposition.
 
 ## Publications
-* Authored a research article titled "Computational Systems Biology of Pityriasis Lichenoides Chronica and Its Comorbidities," published by Inderscience Publishers, showcasing innovative findings in the field of computational biology and disease analysis.
-
-[Link](https://doi.org/10.1504/IJBRA.2021.120206)
+* Authored a research article titled "Computational Systems Biology of Pityriasis Lichenoides Chronica and Its Comorbidities," published by Inderscience Publishers, showcasing innovative findings in the field of computational biology and disease analysis. [Link](https://doi.org/10.1504/IJBRA.2021.120206)
