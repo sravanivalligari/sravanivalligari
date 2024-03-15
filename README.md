@@ -1,39 +1,46 @@
 # About me
 
 Location: Saint Louis, Missouri, United States  
-* [Email](mailto:chintakmanojkumar.joshi@slu.edu)
-* [LinkedIn](https://www.linkedin.com/in/chintak-joshi-882260115/)
-
-## Technical Skills
-* Languages: JavaScript, TypeScript, Python, Java, XML/HTML, CSS, SQL
-* Frameworks: React, Native, Redux, Node.js, Angular.js, Express.js, Django, Bootstrap, Tailwind CSS
-* Databases: MySQL, MongoDB, Oracle, PL/SQL
-* DevOps & Cloud Services: AWS, Azure, Docker, GitHub, CircleCI, Jira, Slack, Docker
-* IDE & Tools: VScode, Pycharm, Eclipse, NetBeans, Postman, Firebase, Linux, Tableau
-
-## Professional Experience
-### Software Developer I | Open-Source at SLU | Saint Louis University, MO
-* Spearheaded the development and optimization of open-source projects, ensuring robustness and scalability for the university's technological framework.
-* Enhanced community engagement, establishing the university as a leader in open-source development.
-
-### Software Engineering Intern | Brainybeam Technologies Pvt. Ltd. | India
-* Leveraged Agile Scrum methodologies to enhance team productivity and efficiency in software delivery.
-* Designed and developed diverse APIs, including RESTful, microservices, and GraphQL.
-* Conducted comprehensive regression testing and code reviews, ensuring high software quality and adherence to best practices.
-
-### Software Engineering Intern | Anudip Foundation | India
-* Constructed end-to-end web-based solutions that facilitate data processing, analysis, and graphical representation. 
-* Orchestrated critical updates in a timely manner, encompassing alterations in content and enhancements in the database structure.
-* Ensured high-quality software delivery through rigorous testing and refinement of web-based applications.
-
-### Software Engineering Intern | Brainybeam Technologies Pvt. Ltd. | India
-* Employed the Django framework to tailor a dynamic user interface, ensuring seamless usability and exceptional software delivery. 
-* Designed and implemented robust APIs to enable seamless integration with various systems. 
-* Streamlined and optimized existing websites utilizing cutting-edge front-end web development techniques within advanced content management systems.
+* [Email](sravani.valligari31@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/sravani-valligari-545496170/)
 
 ## Education
-### Master's in Computer Science
-**Saint Louis University** • Saint Louis, Missouri • 2024
+### Master's in Bioinformatics and Computational Biology
+**Saint Louis University** * Saint Louis, Missouri * 2024
 
-### BE in Information Technology
-**Gujarat Technological University** • Ahmedabad, Gujarat • 2022
+### B. Tech, Bioinformatics
+** Sathyabama Institute of Science and Technology** * Chennai, Tamil Nadu * 2021
+
+## Technical Skills
+* Languages: R programming, Python, C, C++, SQL
+* Subject Expertise: Data Analysis and Visualization, Machine Learning Algorithms, Genetics, Drug Designing, Bioinformatic tools, NGS Data analysis, GWAS and Transcriptomic studies, Computational Biology and Systems Biology, Protein Structure Prediction.
+* IDE & Tools: R Studio, VScode, Unix/Linux, Jupyter, Slack, GitHub, Tableau
+
+## Professional Experience
+### Bioinformatics Research Assistant | Donald Danforth Plant Science Center | St. Louis, MO
+* Enhanced data analysis efficiency through optimizing an R Shiny application for ionomics data visualization.
+* Boosted seed harvesting process and advanced data analysis on Arabidopsis and Setaria.
+* Accelerated research project timelines using statistical and machine learning techniques for dataset analysis.
+
+### Bioinformatics Research Intern | Averin Biotech Private Limited | India
+* Improved protein-ligand interaction prediction accuracy by using bioinformatics tools like Accelrys Discovery Studio and MOE.
+* Contributed to the identification of two pre-clinical therapeutic compounds through advanced molecular structure prediction.
+* Enhanced drug discovery project, fostering cross-functional team collaboration.
+
+## Projects
+
+### R Shiny Web Application for FireMAGE Project
+* Engineered a cutting-edge bioinformatics web application, significantly enhancing data visualization of genes, ionomics data, and traits, boosting user engagement and interpretability.
+* Pioneered the integration of advanced visualization techniques, including violin plots, upset charts, and Venn diagrams, coupled with data tables for in-depth multi-trait and gene analysis, elevating the analytical capabilities for researchers.
+Computational Systems Biology of Pityriasis lichenoides chronica (PLC) and its Comorbidities
+* Conducted comprehensive gene expression and regulatory network analyses using PGP, Disgenet, and Disease Connect datasets, uncovering critical insights into PLC.
+* Utilized Geo2R and Cytoscape to map out complex networks, identifying pivotal transcription factors and establishing novel pathway connections between PLC and Psoriasis, paving the way for groundbreaking drug target discoveries.
+
+### Transcriptome Wide Association Studies for Alzheimer's Disease
+* Developed an innovative framework combining GWAS and Transcriptomics to identify key single nucleotide variations linked to Alzheimer's, setting a new standard in genetic research.
+* Exploited the Genome Asia 100k project to analyze SNP allele frequency across diverse populations, shedding unprecedented light on the genetic underpinnings of Alzheimer's disease, and contributing to global understanding of genetic diversity in disease predisposition.
+
+## Publications
+* Authored a research article titled "Computational Systems Biology of Pityriasis Lichenoides Chronica and Its Comorbidities," published by Inderscience Publishers, showcasing innovative findings in the field of computational biology and disease analysis.
+
+[Link](https://doi.org/10.1504/IJBRA.2021.120206)
